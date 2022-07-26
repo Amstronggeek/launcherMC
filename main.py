@@ -17,14 +17,6 @@ import random
 from zipfile import ZipFile
 import pathlib
 
-'''
-J'ai pas encore fait (Désoler), j'essaie de republié le launcher dès que j'ai fait ça (Si dans 1mois je l'ai pas fait 
-dite le moi dans les commentaires (Merci)
-
-ajouter un bouton paramètre pour les arg jvm
-choix de l'utilisateur si il souhaite être connecté directement au serveur après son lancement
-'''
-
 
 def main():
     def update_forge(arg):
